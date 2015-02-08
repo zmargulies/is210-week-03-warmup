@@ -96,7 +96,6 @@ Specifications
 Examples
 ^^^^^^^^
 
-
 .. code:: pycon
 
     >>> print WEEKS
