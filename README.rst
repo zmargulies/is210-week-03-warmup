@@ -109,7 +109,7 @@ In this task, we'll perform a basic slice operation with a string.
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Open ``task_02.py``
+1.  Open ``task_03.py``
 
 2.  Use the *slice* syntax to slice the first ``7`` characters from the
     ``WILL_ROBINSON`` variable and assign the result into a new variable
