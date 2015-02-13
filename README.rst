@@ -56,7 +56,7 @@ Specifications
 
 1.  Open ``task_01.py``
 
-2.  After line 8, add a new line and assign a new value of ``Nevermore!`` to
+2.  After line 9, add a new line and assign a new value of ``Nevermore!`` to
     the ``RAVEN`` variable.
 
     .. note::
