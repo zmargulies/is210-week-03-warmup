@@ -421,7 +421,7 @@ Examples
 .. code:: pycon
 
     >>> FRAC_DEC_EQUAL
-    True
+    False
     >>> DEC_FLOAT_INEQUAL
     True
 
