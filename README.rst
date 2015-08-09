@@ -54,7 +54,7 @@ Specifications
 
 1.  Open ``task_01.py``
 
-2.  After line 8, add a new line and assign a new value of ``Nevermore!`` to
+2.  After line 9, add a new line and assign a new value of ``Nevermore!`` to
     the ``RAVEN`` variable.
 
     .. note::
@@ -107,7 +107,7 @@ In this task, we'll perform a basic slice operation with a string.
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Open ``task_02.py``
+1.  Open ``task_03.py``
 
 2.  Use the *slice* syntax to slice the first ``7`` characters from the
     ``WILL_ROBINSON`` variable and assign the result into a new variable
@@ -419,7 +419,7 @@ Examples
 .. code:: pycon
 
     >>> FRAC_DEC_EQUAL
-    True
+    False
     >>> DEC_FLOAT_INEQUAL
     True
 
